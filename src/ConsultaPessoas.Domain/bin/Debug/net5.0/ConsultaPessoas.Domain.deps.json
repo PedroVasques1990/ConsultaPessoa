@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ConsultaPessoas.Domain/1.0.0": {
+        "dependencies": {
+          "main": "1.0.0"
+        },
+        "runtime": {
+          "ConsultaPessoas.Domain.dll": {}
+        }
+      },
+      "main/1.0.0": {
+        "runtime": {
+          "main.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsultaPessoas.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\ConsultaPessoas.Repository.deps.json
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\ConsultaPessoas.Repository.dll
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\ref\ConsultaPessoas.Repository.dll
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\ConsultaPessoas.Repository.pdb
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\ConsultaPessoas.Domain.dll
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\main.dll
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\ConsultaPessoas.Domain.pdb
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\bin\Debug\net5.0\main.pdb
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.csprojAssemblyReference.cache
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.AssemblyInfoInputs.cache
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.AssemblyInfo.cs
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.csproj.CopyComplete
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.dll
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ref\ConsultaPessoas.Repository.dll
+C:\Users\pe_va\Desktop\Projetos\ConsultaPessoas\src\ConsultaPessoas.Repository\obj\Debug\net5.0\ConsultaPessoas.Repository.pdb
